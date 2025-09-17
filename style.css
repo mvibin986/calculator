@@ -1,0 +1,37 @@
+html{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 130px;
+}
+.input
+{
+    border-radius: 30px;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    font-size: 26px;
+}
+.container
+{
+    border: 3px solid black;
+    padding: 10px 10px 10px 10px;
+    border-radius: 15px;
+    background-color: rgba(86, 91, 90, 0.937);
+}
+ button{
+    height: 65px;
+    width: 65px;
+    border-radius: 50px;
+    font-size: 22px;
+ }
+ #B
+ {
+    background: #7ca2ef;
+ }
+ #B1
+ {
+    background-color: rgba(92, 64, 228, 0.936);
+ }
+ body{
+    background-image: url(https://t3.ftcdn.net/jpg/02/16/53/96/360_F_216539624_iy8PCnvHwEfVt9Xd18EgBJoGZuJ0qy0P.jpg);
+ }
